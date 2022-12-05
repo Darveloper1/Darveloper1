@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Daryl
-- Just downloaded git desktop, making my first commit on my cloned local copy on the test branch before merging!
+👋 Hey, I’m Daryl!
+
+While leading BD and Ops at OtterSec, my secondary interests are AI and data science (both excellent fields with much possibilities to explore!)
 
 <!---
 Darveloper1/Darveloper1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
